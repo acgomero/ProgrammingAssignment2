@@ -2,7 +2,8 @@
 ## functions do
 ## Write a short comment describing this function
 
-## This function creates a special "matrix" object that can cache its inverse.
+## This function creates a special "matrix" object
+## that can cache its inverse.
 ## The function sets the value of the matrix
 ## It then gets the value of the matrix
 ## Followed by setting the value of the inverse
